@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @J3z7us
-- 👀 I’m interested in game development, cybersecurity and ethical hacking.
-- 🌱 I’m currently learning Cybersecurity
-- ⚡ Fun fact: I'm a scripter on roblox studios
+
